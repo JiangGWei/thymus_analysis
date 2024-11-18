@@ -50,3 +50,5 @@
 - PyYAML
 - tqdm
 - openpyxl
+## 分割模型下载
+ 下载地址：https://pan.quark.cn/s/d96e67dfa6a2
