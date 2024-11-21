@@ -1,0 +1,11 @@
+torch
+nnunetv2
+SimpleITK
+numpy
+scipy
+matplotlib
+scikit-image
+pandas
+PyYAML
+tqdm
+openpyxl
