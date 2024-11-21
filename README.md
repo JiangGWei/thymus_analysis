@@ -1,6 +1,6 @@
 # Thymus Analysis Tool
 
-## 简介
+## synopsis
 
 This project is used to automate the processing of CT image data to extract anatomical and radiological features of the thymus, including segmentation and measurement functions.
 
